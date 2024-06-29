@@ -1,1 +1,1 @@
-# ❖	Vacation Rental Platform 
+# 	Vacation Rental Platform 
